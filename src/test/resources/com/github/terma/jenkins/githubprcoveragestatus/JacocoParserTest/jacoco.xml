@@ -34,7 +34,7 @@
                 <counter type="INSTRUCTION" missed="3" covered="0"/>
                 <counter type="LINE" missed="1" covered="0"/>
                 <counter type="COMPLEXITY" missed="1" covered="0"/>
-                <counter type="METHOD" missed="1" covered="0"/>
+                <counter type="METHOD" missed="1" covered="1"/>
             </method>
             <method name="getFloats"
                     desc="(Ljava/io/File;Ljava/lang/String;Lcom/github/terma/jenkins/githubprcoveragestatus/CoverageReportParser;)Ljava/util/List;"
